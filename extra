@@ -1,0 +1,51 @@
+<div class="col-md-11" style="margin: 20px;">
+      <h4 class="my-3" id="list-item-4" style="font-family: 'Source Serif Pro', serif; font-weight: bold;">Introduction to C</h4>
+       C is a programming language developed at AT & T’s Bell Laboratories of USA
+        in 1972. It was designed and written by a man named Dennis Ritchie. In the late
+        seventies C began to replace the more familiar languages of that time like PL/I,
+        ALGOL, etc
+         ANSI C standard emerged in the early 1980s, this book was split into two
+        titles: The original was still called Programming in C, and the title that covered
+        ANSI C was called Programming in ANSI C. This was done because it took
+        several years for the compiler vendors to release their ANSI C compilers and for
+        them to become ubiquitous. It was initially designed for programming UNIX
+        operating system. Now the software tool as well as the C compiler is written in C.
+        Major parts of popular operating systems like Windows, UNIX, Linux is still
+        written in C. This is because even today when it comes to performance (speed of
+        execution) nothing beats C. Moreover, if one is to extend the operating system to
+        work with new devices one needs to write device driver programs. These
+        programs are exclusively written in C. C seems so popular is because it is reliable,
+        simple and easy to use. often heard today is – “C has been already superceded
+        by languages like C++, C# and Java.
+        <h4 class="my-3" id="list-item-4" style="font-family: 'Source Serif Pro', serif; font-weight: bold;">Program</h4>
+        There is a close analogy between learning English language and learning C
+          language. The classical method of learning English is to first learn the alphabets
+          used in the language, then learn to combine these alphabets to form words, which
+          in turn are combined to form sentences and sentences are combined to form
+          paragraphs. Learning C is similar and easier. Instead of straight-away learning how
+          to write programs, we must first know what alphabets, numbers and special
+          symbols are used in C, then how using them constants, variables and keywords are
+          constructed, and finally how are these combined to form an instruction. A group
+          of instructions would be combined later on to form a program. So
+          a computer program is just a collection of the instructions necessary to solve a
+         specific problem. The basic operations of a computer system form what is known
+         as the computer’s instruction set. And the approach or method that is used to solve
+         the problem is known as an algorithm.
+         So for as programming language concern these are of two types.
+          <br> 1) Low level language
+          <br> 2) High level language
+          <br>
+          <h4 class="my-3" id="list-item-4" style="font-family: 'Source Serif Pro', serif; font-weight: bold;">Low Level Language</h4>
+          Low level languages are machine level and assembly level language. In
+machine level language computer only understand digital numbers i.e. in the form
+of 0 and 1. So, instruction given to the computer is in the form binary digit, which
+is difficult to implement instruction in binary code. This type of program is not
+portable, difficult to maintain and also error prone. The assembly language is on
+other hand modified version of machine level language. Where instructions are
+given in English like word as ADD, SUM, MOV etc. It is easy to write and
+understand but not understand by the machine. So the translator used here is
+assembler to translate into machine level. Although language is bit easier,
+programmer has to know low level details related to low level language. In the
+assembly level language the data are stored in the computer register, which varies
+for different computer. Hence it is not portable.
+<h4 class="my-3" id="list-item-4" style="font-family: 'Source Serif Pro', serif; font-weight: bold;">High Level Language</h4>
